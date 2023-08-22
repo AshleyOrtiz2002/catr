@@ -1,5 +1,4 @@
 {
-  "homepage": "https://AshleyOrtiz2002.github.io/catr",
   "name": "catr",
   "version": "0.1.0",
   "private": true,
@@ -7,9 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "lint": "next lint"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.16",
